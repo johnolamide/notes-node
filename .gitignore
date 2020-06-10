@@ -1,0 +1,5 @@
+node_modules/
+playground/
+testing/
+notes-data.json
+package-lock.json
